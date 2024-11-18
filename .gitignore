@@ -1,0 +1,9 @@
+appDb.json
+dest/
+_archive
+node_modules
+.vscode
+build
+*.env
+.env.test
+coverage
