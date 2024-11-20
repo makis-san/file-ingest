@@ -6,8 +6,6 @@
 
 **File Ingest API** is an open-source Node.js project that simplifies file copying from mass storage devices (e.g., USB drives) to a local directory. With robust device detection, file browsing, and configurable ingestion settings, it provides a seamless solution for managing file transfers in automated workflows.
 
-This repository is inspired by and extends the functionality of [makis-san/file-ingest](https://github.com/makis-san/file-ingest).
-
 ---
 
 ## ✨ Features
