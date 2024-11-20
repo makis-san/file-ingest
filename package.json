@@ -1,11 +1,13 @@
 {
-  "name": "truenas-ingestion",
+  "name": "file-ingest",
+  "author": {
+    "name": "Santiago Souza"
+  },
   "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "dev": "tsx watch src/index.ts",
-    "test2": "tsx src/test.ts",
     "build": "npx tsc",
     "test": "jest",
     "test:watch": "jest --watch",
@@ -27,9 +29,7 @@
     "dotenv": "^16.4.5",
     "drivelist": "^12.0.2",
     "express": "^4.21.1",
-    "node-hid": "^3.1.0",
     "node-json-db": "^2.3.0",
-    "p-limit": "^6.1.0",
     "systeminformation": "^5.23.5",
     "telegraf": "^4.16.3",
     "typescript": "^5.6.3",
